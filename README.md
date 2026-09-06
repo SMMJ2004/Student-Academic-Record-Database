@@ -1,4 +1,4 @@
-# SQL Database & Query Project
+# Student Academic Record Database - Oracle SQL
 
 ## 📌 Project Overview
 This project includes SQL scripts for database creation, schema design, and various analytical queries.  
@@ -16,5 +16,5 @@ It demonstrates understanding of relational databases, joins, aggregations, and 
 - Subqueries   
 - Data filtering and sorting  
 
-## 📧 Contact
-Feel free to connect for improvements or questions.
+## 📄 Details
+For more details refer to the attached report.
